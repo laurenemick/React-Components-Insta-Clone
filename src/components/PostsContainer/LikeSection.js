@@ -7,7 +7,7 @@ import { faComment, faHeart } from '@fortawesome/free-regular-svg-icons'
 
 const LikeSection = props => {
   const { addLikes, likes } = props
-  console.log(props)
+  //console.log(props)
  
   return (
     <div>
